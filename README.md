@@ -1,9 +1,9 @@
 # Metacrafters_Avalanche_IM1
-This Solidity program showcases different error handling techniques in smart contracts. It includes functions for `require`, `revert`, and `assert` statements to handle different scenarios when dealing with positive numbers.
+This Solidity program showcases different error handling techniques in smart contracts. It includes functions for `require`, `revert`, and `assert` statements to handle different scenarios when dealing with numbers divisible by 3.
 
 ## Description
 
-This program is a Solidity smart contract that demonstrates error handling techniques using `require`, `revert`, and `assert` statements. It provides functions to check if a given input is an positive number. Depending on the function called, it will either return a message, revert the transaction, or assert a condition.
+This program is a Solidity smart contract that demonstrates error handling techniques using `require`, `revert`, and `assert` statements. It provides functions to check if a given input is an numbers divisible by 3. Depending on the function called, it will either return a message, revert the transaction, or assert a condition.
 
 ## Getting Started
 
